@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body
+{
+	
+	background-color: white;
+	
+}
+#artistboxes
+{
+	width: 90%; 
+	display: block;
+	margin: 0 auto;
+}
+
+
+#rightImgdiv img {
+width: 100%;
+}
+
+#hollieline
+{
+	width:50%;
+	
+}
