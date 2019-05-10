@@ -4,11 +4,10 @@
 
 #artistboxes
 {
-	width: 90%; 
+	width: 90%;
 	display: block;
 	margin: 0 auto;
 }
-
 
 #rightImgdiv img {
 width: 100%;
@@ -17,5 +16,5 @@ width: 100%;
 #hollieline
 {
 	width:50%;
-	
+
 }
